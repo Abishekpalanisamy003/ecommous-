@@ -2,7 +2,7 @@
   "name": "ecomous",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://github.com/Abishekpalanisamy003/ecommous-",
+  "homepage": "https://Abishekpalanisamy.github.io/ecommous-",
   "type": "module",
   "scripts": {
     "dev": "vite",
