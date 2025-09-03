@@ -2,7 +2,7 @@
   "name": "ecomous",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://Abishekpalanisamy003.github.io/ecommous-",
+  "homepage": "https://github.com/Abishekpalanisamy003/ecommous-",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -11,13 +11,13 @@
     "preview": "vite preview",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
-
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
     "@mui/material": "^7.2.0",
     "bootstrap": "^5.3.7",
+    "gh-pages": "^6.3.0",
     "react": "^19.1.0",
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.0",
